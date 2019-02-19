@@ -1,5 +1,5 @@
 # tMNIST-PyTorch
-PyTorch Dataset Generator for Transformed MNIST Digits
+PyTorch Dataset Generator for Translated MNIST Digits.
 
 ## How to generate
 - Set the parameters in `generate.py` as desired.
